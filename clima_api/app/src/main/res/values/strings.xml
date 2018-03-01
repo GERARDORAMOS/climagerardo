@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">clima_api</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="humedad">Hum</string>
+
+    <string name="action_settings">Ajustes</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="busqueda">Busqueda</string>
+    <string name="microfono">Microfono</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="modo_ciego">Modo Ciego</string>
+    <string name="ex_modo_ciego">Activar para personas con discapacidad visual</string>
+    <string name="busqueda_voz">Cual es su peticion?</string>
+
+
+    <string name="instalacion_tts">Se ha detectado que su dispositivo no cuenta con los archivos
+        para el reconocimiento de voz,
+        a continuacion sera llevado a la tienda Google Play para que realize la descarga de los
+        archivos nesesarios para la aplicacion.
+    </string>
+
+    <string name="atencion">Atencion</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="cargando">Cargando informacion</string>
+
+    <string name="error_tts">Lo lamento, ha fallado el reconocimiento =(</string>
+    <string name="error_audio">Lo lamento, ha ocurrido un error con el audio capturado</string>
+    <string name="error_red_datos">Lo lamento, hay problemas en la red de datos o WIFI de su
+        dispositivo
+    </string>
+    <string name="error_audio_servidor">Lo lamento, hay problemas con el acceso a los servidores de
+        Google
+    </string>
+    <string name="error_parser">Hubo un error leyendo los datos descargados, intente nuevamente
+    </string>
+
+    <string name="sin_red">No hay conectividad de red para realizar la peticion</string>
+</resources>
